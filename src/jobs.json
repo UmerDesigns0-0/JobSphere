@@ -1,0 +1,747 @@
+{
+  "jobs": [
+    {
+      "type": "Full-Time",
+      "id": "1",
+      "title": "Frontend Developer",
+      "desc": "Design and develop responsive, accessible web interfaces using React and Tailwind CSS. Collaborate with UX/UI designers to ensure pixel-perfect implementation, optimize performance for various devices, and maintain clean, reusable code. Participate in code reviews, stay updated on the latest frontend technologies, and contribute ideas to improve the user experience.",
+      "salary": "$85,000 - $100,000",
+      "location": "New York, NY",
+      "company": "TechNova Solutions",
+      "resp": [
+        "Develop and maintain scalable web applications using React and Tailwind CSS",
+        "Collaborate with UX/UI designers to deliver visually consistent interfaces",
+        "Optimize applications for maximum speed and scalability",
+        "Perform code reviews and maintain code quality",
+        "Stay updated on industry trends and propose new solutions"
+      ],
+      "req": [
+        "Bachelor’s degree in Computer Science or related field",
+        "2+ years of experience with React and frontend frameworks",
+        "Strong knowledge of HTML, CSS, JavaScript",
+        "Familiarity with version control (Git)",
+        "Understanding of responsive and accessible design"
+      ],
+      "ben": [
+        "Health, dental, and vision insurance",
+        "401(k) with company match",
+        "Paid time off and holidays",
+        "Professional development budget",
+        "Hybrid work flexibility"
+      ],
+      "fullDesc": "TechNova Solutions is looking for a Frontend Developer to join our New York team. In this role, you will design and develop responsive, accessible web interfaces using React and Tailwind CSS, collaborating closely with UX/UI designers to ensure pixel-perfect implementation. You’ll optimize performance for various devices, maintain clean, reusable code, and participate in code reviews. Staying updated on the latest frontend technologies is encouraged, and you’ll have opportunities to contribute ideas to improve the user experience. We value innovation, collaboration, and continuous growth, providing an inclusive workplace where your contributions are recognized and your career development is supported. You’ll work with cross-functional teams, help shape our digital strategy, and be encouraged to share ideas and propose improvements. If you are passionate about building intuitive applications that make a real impact, we’d love to hear from you. Join us and be part of a team dedicated to pushing the boundaries of modern web development."
+    },
+    {
+      "type": "Contract",
+      "id": "3",
+      "title": "Content Writer",
+      "desc": "Write high-quality blog posts, product descriptions, and SEO-optimized articles to attract and engage audiences. Conduct thorough research on industry-related topics, adapt tone and style to different target groups, and ensure all content meets editorial standards. Collaborate with marketing teams to align messaging with broader branding and business goals.",
+      "salary": "$30/hr",
+      "location": "Remote",
+      "company": "ContentCraft Agency",
+      "resp": [
+        "Produce blog posts, articles, and product descriptions",
+        "Conduct keyword research for SEO optimization",
+        "Ensure content aligns with brand voice and tone",
+        "Proofread and edit work to meet editorial standards",
+        "Collaborate with marketing team for campaign alignment"
+      ],
+      "req": [
+        "Proven writing experience with a portfolio of published work",
+        "Strong research and communication skills",
+        "Knowledge of SEO best practices",
+        "Ability to adapt writing style to different audiences",
+        "Time management and organizational skills"
+      ],
+      "ben": [
+        "Remote work flexibility",
+        "Competitive hourly pay",
+        "Opportunity to work with diverse clients",
+        "Creative freedom in content development",
+        "Potential for long-term collaboration"
+      ],
+      "fullDesc": "ContentCraft Agency is seeking a talented freelance Content Writer to join our distributed team. This contract position is ideal for writers who excel in producing high-quality, SEO-friendly content across a variety of industries. You will be responsible for creating blog posts, product descriptions, and articles that inform and engage readers. The role requires strong research skills, adaptability in tone and style, and the ability to meet editorial standards. You’ll collaborate with marketing strategists to ensure content aligns with campaign objectives and brand voice. We value creativity, adaptability, and attention to detail, offering remote flexibility and opportunities for long-term projects. Writers who thrive here are self-starters who enjoy the balance of independence and collaboration. If you are passionate about storytelling, motivated by deadlines, and excited to make an impact through content, we’d love to hear from you."
+    },
+    {
+      "type": "Internship",
+      "id": "4",
+      "title": "Marketing Intern",
+      "desc": "Assist the marketing team in planning and executing digital and offline campaigns. Help track analytics, prepare performance reports, and create engaging content for social media. Participate in brainstorming sessions, conduct competitor research, and support event organization to gain hands-on experience in multiple aspects of marketing and brand promotion.",
+      "salary": "$1,500/month",
+      "location": "Chicago, IL",
+      "company": "GrowthEdge Marketing",
+      "resp": [
+        "Support marketing campaigns with research and execution",
+        "Create and schedule social media content",
+        "Assist in preparing reports and tracking analytics",
+        "Help organize events and promotional activities",
+        "Participate in brainstorming sessions for new strategies"
+      ],
+      "req": [
+        "Current student or recent graduate in Marketing, Business, or related field",
+        "Strong written and verbal communication skills",
+        "Basic knowledge of social media platforms",
+        "Detail-oriented and eager to learn",
+        "Ability to work collaboratively with a team"
+      ],
+      "ben": [
+        "Hands-on training and mentorship",
+        "Exposure to multiple areas of marketing",
+        "Opportunity to work on real campaigns",
+        "Monthly stipend",
+        "Potential for full-time offer after internship"
+      ],
+      "fullDesc": "GrowthEdge Marketing is excited to offer an internship opportunity for motivated students and recent graduates who are eager to gain practical experience in the world of marketing. As a Marketing Intern, you will play a supportive role in helping our team execute both digital and offline campaigns. Your tasks will include creating and scheduling engaging content for social media, assisting in report preparation, and analyzing campaign performance. You’ll also contribute to event planning, conduct competitor research, and participate in creative brainstorming sessions. This internship is designed to provide you with well-rounded exposure to different aspects of marketing, from social media management to campaign strategy. Our ideal candidate is detail-oriented, enthusiastic, and eager to learn in a fast-paced environment. At GrowthEdge Marketing, we foster a collaborative workplace where interns are valued team members and encouraged to share fresh perspectives. You will receive guidance and mentorship from experienced marketing professionals, ensuring you build both technical skills and industry knowledge."
+    },
+    {
+      "type": "Full-Time",
+      "id": "5",
+      "title": "Backend Developer",
+      "desc": "Develop and maintain server-side applications using Node.js and related frameworks. Integrate APIs, manage databases, and ensure system scalability and security. Collaborate with frontend developers to deliver seamless user experiences, troubleshoot technical issues, and write clean, maintainable code that adheres to industry standards and best development practices.",
+      "salary": "$90,000 - $110,000",
+      "location": "Austin, TX",
+      "company": "CodeForge Systems",
+      "resp": [
+        "Develop backend systems using Node.js and Express",
+        "Design and manage relational and NoSQL databases",
+        "Integrate third-party and internal APIs",
+        "Ensure application scalability, performance, and security",
+        "Collaborate with frontend teams for full-stack development"
+      ],
+      "req": [
+        "Bachelor’s degree in Computer Science or related field",
+        "3+ years of experience in backend development",
+        "Proficiency in Node.js and related frameworks",
+        "Experience with SQL and NoSQL databases",
+        "Knowledge of cloud platforms and containerization"
+      ],
+      "ben": [
+        "Comprehensive health and dental insurance",
+        "Stock options",
+        "Flexible work schedule with remote days",
+        "Learning and development stipend",
+        "Annual company retreats"
+      ],
+      "fullDesc": "CodeForge Systems is looking for an experienced Backend Developer to join our engineering team in Austin, TX. In this role, you will be responsible for building and maintaining the server-side logic that powers our applications, ensuring they are scalable, secure, and high-performing. You will work extensively with Node.js, Express, and various database technologies, integrating APIs and managing complex data flows. Collaboration with frontend developers will be key to delivering seamless end-to-end user experiences. Beyond coding, you will contribute to architecture discussions, propose improvements, and troubleshoot performance issues. The ideal candidate is detail-oriented, well-versed in industry best practices, and passionate about building robust backend systems. At CodeForge Systems, we encourage creativity and innovation while maintaining a strong focus on code quality and long-term scalability. Our company culture values collaboration, continuous learning, and technical excellence."
+    },
+    {
+      "type": "Remote",
+      "id": "6",
+      "title": "Customer Support Specialist",
+      "desc": "Provide timely and professional support to customers via email, chat, and phone. Troubleshoot product issues, document solutions, and escalate complex cases to the technical team. Maintain a positive and empathetic tone, ensure customer satisfaction, and help improve support processes by giving feedback based on customer interactions.",
+      "salary": "$40,000 - $50,000",
+      "location": "Remote",
+      "company": "HelpHive Solutions",
+      "resp": [
+        "Respond to customer inquiries via email, chat, and phone",
+        "Troubleshoot and resolve product-related issues",
+        "Document solutions in knowledge base",
+        "Escalate technical issues to specialized teams",
+        "Contribute feedback to improve support processes"
+      ],
+      "req": [
+        "High school diploma or equivalent; Bachelor’s preferred",
+        "1+ years of customer support experience",
+        "Excellent communication and problem-solving skills",
+        "Ability to remain calm under pressure",
+        "Familiarity with CRM software"
+      ],
+      "ben": [
+        "Remote work flexibility",
+        "Health and wellness benefits",
+        "Paid vacation and sick leave",
+        "Training and professional growth",
+        "Supportive and collaborative environment"
+      ],
+      "fullDesc": "HelpHive Solutions is seeking a dedicated Customer Support Specialist to join our fully remote team. In this role, you will serve as the first point of contact for customers, delivering friendly, timely, and effective support. You will communicate with users via email, live chat, and phone calls, helping resolve product issues while ensuring that every customer feels valued and supported. You will also be responsible for documenting solutions in our internal knowledge base, escalating more complex issues to technical teams when needed, and offering feedback that contributes to the continuous improvement of our support systems. The ideal candidate is empathetic, patient, and resourceful, with strong communication skills and the ability to troubleshoot efficiently. Experience with CRM software and prior customer support roles is highly desirable."
+    },
+    {
+      "type": "Full-Time",
+      "id": "7",
+      "title": "Data Analyst",
+      "desc": "Collect, process, and analyze large datasets to identify patterns, trends, and insights that drive business decisions. Create visual dashboards and reports for stakeholders, collaborate with different departments to interpret findings, and ensure data accuracy. Stay updated with analytical tools and help optimize operations through data-driven recommendations.",
+      "salary": "$75,000 - $95,000",
+      "location": "San Francisco, CA",
+      "company": "InsightWorks Analytics",
+      "resp": [
+        "Collect, clean, and validate large datasets",
+        "Develop dashboards and visual reports for stakeholders",
+        "Analyze data to identify trends and business insights",
+        "Work with cross-functional teams to interpret results",
+        "Ensure compliance with data governance policies"
+      ],
+      "req": [
+        "Bachelor’s degree in Data Science, Statistics, or related field",
+        "Proficiency in SQL, Python, or R",
+        "Experience with data visualization tools like Tableau or Power BI",
+        "Strong analytical and critical thinking skills",
+        "Attention to detail and commitment to accuracy"
+      ],
+      "ben": [
+        "Comprehensive healthcare coverage",
+        "401(k) with matching contributions",
+        "Professional development opportunities",
+        "Generous PTO and paid holidays",
+        "On-site wellness programs"
+      ],
+      "fullDesc": "InsightWorks Analytics is hiring a Data Analyst to join our San Francisco team. In this role, you will gather, process, and analyze large and complex datasets to uncover valuable insights that guide critical business decisions. You will design dashboards, build reports, and communicate findings to stakeholders across different departments, helping them make informed, data-driven choices. Responsibilities include collecting and cleaning data, ensuring accuracy and integrity, and collaborating with colleagues to translate analytical results into actionable recommendations. Our ideal candidate is detail-oriented, curious, and adept at using tools such as SQL, Python, R, and visualization platforms like Tableau or Power BI. Strong problem-solving skills and the ability to communicate technical results in simple terms are essential."
+    },
+    {
+      "type": "Part-Time",
+      "id": "8",
+      "title": "Social Media Manager",
+      "desc": "Manage and grow the company’s social media presence across multiple platforms. Create engaging content, schedule posts, and interact with followers to build a loyal community. Track analytics to measure performance, adjust strategies based on data, and collaborate with designers and copywriters to ensure brand consistency.",
+      "salary": "$28/hr",
+      "location": "Miami, FL",
+      "company": "PulseConnect Media",
+      "resp": [
+        "Manage company social media accounts across platforms",
+        "Plan and schedule engaging content",
+        "Engage with followers and respond to comments/messages",
+        "Track performance metrics and adjust strategies",
+        "Collaborate with designers and content creators"
+      ],
+      "req": [
+        "Experience managing social media for brands or businesses",
+        "Knowledge of analytics tools and reporting",
+        "Strong communication and copywriting skills",
+        "Creativity and ability to adapt quickly to trends",
+        "Organizational skills and attention to detail"
+      ],
+      "ben": [
+        "Flexible working schedule",
+        "Creative and dynamic work environment",
+        "Professional growth opportunities",
+        "Access to digital marketing tools",
+        "Team outings and networking events"
+      ],
+      "fullDesc": "PulseConnect Media is seeking a part-time Social Media Manager to enhance and expand our digital presence. Based in Miami, this role involves managing accounts across major platforms, creating engaging and visually appealing content, and fostering strong connections with our online community. You will track analytics to measure the performance of campaigns, identify growth opportunities, and adjust strategies to optimize engagement and reach. Collaboration is a key part of the role, as you will work closely with designers, copywriters, and marketing specialists to ensure brand consistency and cohesive storytelling across channels. The ideal candidate is creative, proactive, and knowledgeable about current trends in digital media."
+    },
+    {
+      "type": "Contract",
+      "id": "9",
+      "title": "UX/UI Designer",
+      "desc": "Design intuitive and visually appealing interfaces for web and mobile applications. Conduct user research, create wireframes, and develop prototypes to test usability. Collaborate with developers to ensure accurate implementation, and refine designs based on user feedback to improve overall product experience and accessibility standards.",
+      "salary": "$45/hr",
+      "location": "Seattle, WA",
+      "company": "Visionary Apps Studio",
+      "resp": [
+        "Conduct user research and usability testing",
+        "Create wireframes, prototypes, and design systems",
+        "Design intuitive and visually appealing interfaces",
+        "Collaborate with developers for accurate implementation",
+        "Refine designs based on user feedback"
+      ],
+      "req": [
+        "Bachelor’s degree in Design, HCI, or related field",
+        "Portfolio showcasing UX/UI projects",
+        "Proficiency with design tools (Figma, Sketch, Adobe XD)",
+        "Understanding of accessibility standards",
+        "Strong problem-solving and collaboration skills"
+      ],
+      "ben": [
+        "Flexible contract arrangements",
+        "Opportunities to work on innovative projects",
+        "Collaborative and creative team culture",
+        "Access to design tools and resources",
+        "Potential for long-term partnership"
+      ],
+      "fullDesc": "Visionary Apps Studio is searching for a contract UX/UI Designer to help shape the user experience of our web and mobile applications. As a designer, you will play a key role in understanding user needs, translating research into wireframes and prototypes, and designing interfaces that are both functional and aesthetically pleasing. You will work closely with developers to ensure designs are implemented accurately and consistently, and you will refine your work based on usability testing and user feedback. This role requires a blend of creativity, empathy, and technical expertise. Proficiency with tools such as Figma, Sketch, and Adobe XD is essential, as is a strong understanding of accessibility standards and design best practices."
+    },
+    {
+      "type": "Internship",
+      "id": "10",
+      "title": "IT Support Intern",
+      "desc": "Assist the IT team in troubleshooting technical issues, setting up hardware, and managing software updates. Provide support for employees, document solutions, and learn best practices for maintaining network and system security. Gain hands-on experience by working on real support tickets and technology improvement projects.",
+      "salary": "$1,200/month",
+      "location": "Boston, MA",
+      "company": "NextGen Tech Solutions",
+      "resp": [
+        "Assist with troubleshooting hardware and software issues",
+        "Support employees with IT-related requests",
+        "Document solutions and update knowledge base",
+        "Help with system updates and security checks",
+        "Participate in IT projects and process improvements"
+      ],
+      "req": [
+        "Current student or recent graduate in IT, Computer Science, or related field",
+        "Basic understanding of hardware and software systems",
+        "Strong problem-solving skills",
+        "Excellent communication and interpersonal abilities",
+        "Eagerness to learn and adapt quickly"
+      ],
+      "ben": [
+        "Hands-on IT experience",
+        "Mentorship from experienced professionals",
+        "Exposure to network and system security practices",
+        "Stipend with growth opportunities",
+        "Possibility of future full-time role"
+      ],
+      "fullDesc": "NextGen Tech Solutions is offering an exciting IT Support Internship in Boston, designed for students or recent graduates who want to gain real-world experience in technology support. In this role, you will assist the IT team with day-to-day tasks such as troubleshooting hardware and software issues, setting up new devices, and providing technical assistance to employees across the organization. You will also help maintain system security, document solutions for future reference, and participate in projects aimed at improving IT processes. This internship is an excellent opportunity to apply classroom knowledge to real business environments while building valuable problem-solving and communication skills."
+    },
+    {
+      "type": "Full-Time",
+      "id": "11",
+      "title": "Project Manager",
+      "desc": "Plan, oversee, and deliver projects on time and within budget. Coordinate between teams, track progress, and manage risks effectively. Maintain communication with stakeholders, prepare detailed reports, and ensure all deliverables meet quality standards. Foster a collaborative environment to keep teams motivated and aligned.",
+      "salary": "$95,000 - $115,000",
+      "location": "Denver, CO",
+      "company": "SummitPoint Consulting",
+      "resp": [
+        "Lead planning and execution of projects from start to finish",
+        "Track project timelines, budgets, and deliverables",
+        "Facilitate communication across departments",
+        "Identify and manage risks to minimize delays",
+        "Prepare progress reports for stakeholders"
+      ],
+      "req": [
+        "Bachelor’s degree in Business, Management, or related field",
+        "3+ years of project management experience",
+        "Proficiency with project management tools (Asana, Jira, MS Project)",
+        "Strong organizational and leadership skills",
+        "Excellent communication and problem-solving abilities"
+      ],
+      "ben": [
+        "Comprehensive health and dental insurance",
+        "401(k) with company match",
+        "Generous PTO and paid holidays",
+        "Professional development and training support",
+        "Collaborative and growth-oriented workplace"
+      ],
+      "fullDesc": "SummitPoint Consulting is hiring a skilled Project Manager to join our Denver office. In this role, you will oversee the planning, execution, and completion of projects, ensuring they are delivered on time, within scope, and on budget. You will coordinate efforts across multiple departments, keep stakeholders updated through detailed reports, and identify potential risks before they escalate. We are looking for someone who thrives on organization, excels in leadership, and has a proven ability to guide teams through complex challenges. The ideal candidate will be proficient with project management tools, detail-oriented, and confident in making data-driven decisions."
+    },
+    {
+      "type": "Part-Time",
+      "id": "12",
+      "title": "Video Editor",
+      "desc": "Edit and produce high-quality video content for marketing, social media, and corporate purposes. Work with raw footage, add effects, and sync audio to create a polished final product. Collaborate with creative teams to align visuals with brand storytelling and meet project deadlines consistently.",
+      "salary": "$27/hr",
+      "location": "Las Vegas, NV",
+      "company": "VisionCraft Studios",
+      "resp": [
+        "Edit raw video footage into engaging content",
+        "Add effects, transitions, and audio synchronization",
+        "Collaborate with creative teams to align storytelling",
+        "Optimize videos for different platforms",
+        "Meet deadlines and maintain consistent quality"
+      ],
+      "req": [
+        "Proficiency with video editing software (Adobe Premiere, Final Cut, DaVinci Resolve)",
+        "Strong storytelling and visual skills",
+        "Experience editing for marketing or social media",
+        "Ability to work independently and meet deadlines",
+        "Attention to detail and creativity"
+      ],
+      "ben": [
+        "Flexible part-time schedule",
+        "Access to state-of-the-art editing equipment",
+        "Creative and supportive work environment",
+        "Networking opportunities in the media industry",
+        "Potential for future full-time opportunities"
+      ],
+      "fullDesc": "VisionCraft Studios is looking for a talented Part-Time Video Editor to join our creative team in Las Vegas. You will be responsible for editing raw footage into polished, high-quality video content for marketing campaigns, social media, and corporate projects. This role requires proficiency in editing software, strong storytelling abilities, and the ability to align video content with brand identity. You will collaborate closely with designers, marketers, and copywriters to create impactful visuals that resonate with audiences. The ideal candidate is detail-oriented, creative, and able to manage multiple projects simultaneously."
+    },
+    {
+      "type": "Remote",
+      "id": "13",
+      "title": "Virtual Assistant",
+      "desc": "Provide administrative support to executives, including scheduling meetings, managing emails, and conducting research. Keep documents organized, handle confidential information, and ensure smooth day-to-day operations. Communicate effectively across teams and adapt to shifting priorities while working independently in a fast-paced environment.",
+      "salary": "$20/hr",
+      "location": "Remote",
+      "company": "ProAssist Services",
+      "resp": [
+        "Manage schedules, appointments, and meetings",
+        "Handle email correspondence and document organization",
+        "Conduct research and prepare summaries",
+        "Provide administrative support to executives",
+        "Maintain confidentiality and professionalism"
+      ],
+      "req": [
+        "Previous administrative or virtual assistant experience",
+        "Excellent organizational and time management skills",
+        "Strong written and verbal communication",
+        "Ability to work independently and multitask",
+        "Proficiency with productivity tools (Google Workspace, MS Office)"
+      ],
+      "ben": [
+        "Fully remote role",
+        "Flexible working hours",
+        "Opportunities for career growth",
+        "Supportive team environment",
+        "Access to professional development resources"
+      ],
+      "fullDesc": "ProAssist Services is seeking a reliable and detail-oriented Virtual Assistant to provide administrative support for our executive team. This fully remote position involves managing schedules, handling emails, organizing documents, and conducting research as needed. The role requires someone who can adapt quickly to shifting priorities, communicate effectively across teams, and maintain confidentiality at all times. You will be expected to work independently, managing tasks with efficiency and professionalism. Our ideal candidate has prior experience in administrative support, is highly organized, and is comfortable using productivity tools such as Google Workspace and Microsoft Office."
+    },
+    {
+      "type": "Full-Time",
+      "id": "14",
+      "title": "Sales Executive",
+      "desc": "Drive revenue growth by identifying leads, building client relationships, and closing deals. Conduct market research, present solutions to potential customers, and negotiate terms. Maintain sales records, meet targets, and collaborate with the marketing team to develop outreach strategies that expand market presence.",
+      "salary": "$70,000 - $90,000",
+      "location": "Dallas, TX",
+      "company": "GrowthEdge Enterprises",
+      "resp": [
+        "Identify and pursue new business opportunities",
+        "Build and maintain strong client relationships",
+        "Conduct presentations and negotiate contracts",
+        "Collaborate with marketing on outreach strategies",
+        "Track sales performance and meet revenue targets"
+      ],
+      "req": [
+        "Bachelor’s degree in Business, Marketing, or related field",
+        "2+ years of sales experience",
+        "Excellent communication and negotiation skills",
+        "Ability to meet and exceed targets",
+        "Strong interpersonal and relationship-building skills"
+      ],
+      "ben": [
+        "Competitive salary plus commission",
+        "Health, dental, and vision insurance",
+        "401(k) with matching",
+        "Paid training and development programs",
+        "Opportunities for career growth"
+      ],
+      "fullDesc": "GrowthEdge Enterprises is looking for an ambitious Sales Executive to join our Dallas team. In this role, you will be responsible for driving revenue growth by identifying new business opportunities, building lasting client relationships, and closing deals. You will conduct market research to understand client needs, present tailored solutions, and negotiate terms to maximize value for both parties. The ideal candidate is motivated, results-driven, and thrives in a fast-paced environment. Strong communication and negotiation skills are essential, as is the ability to collaborate with marketing teams to refine outreach strategies."
+    },
+    {
+      "type": "Part-Time",
+      "id": "15",
+      "title": "Tutor",
+      "desc": "Provide academic support to high school and college students in various subjects. Develop personalized lesson plans, explain complex concepts clearly, and monitor student progress. Encourage effective study habits, offer constructive feedback, and adapt teaching styles to suit individual learning needs and goals.",
+      "salary": "$22/hr",
+      "location": "Phoenix, AZ",
+      "company": "BrightPath Learning",
+      "resp": [
+        "Provide one-on-one or group tutoring sessions",
+        "Develop personalized lesson plans",
+        "Explain complex topics clearly and effectively",
+        "Track and report student progress",
+        "Adapt teaching styles to meet student needs"
+      ],
+      "req": [
+        "Experience tutoring or teaching",
+        "Strong knowledge in relevant academic subjects",
+        "Excellent communication and patience",
+        "Ability to motivate and encourage students",
+        "Flexibility to work evenings or weekends"
+      ],
+      "ben": [
+        "Flexible part-time schedule",
+        "Opportunity to make a direct impact on students",
+        "Supportive and collaborative environment",
+        "Access to teaching resources and materials",
+        "Professional growth opportunities"
+      ],
+      "fullDesc": "BrightPath Learning is seeking a passionate Tutor to join our Phoenix team. This part-time role involves providing academic support to students in subjects ranging from math and science to English and test preparation. You will work closely with students to develop personalized lesson plans, explain difficult concepts in clear and relatable ways, and track progress to ensure continuous improvement. The role requires patience, strong communication skills, and a genuine desire to help students succeed."
+    },
+    {
+      "type": "Full-Time",
+      "id": "16",
+      "title": "Mobile App Developer",
+      "desc": "Design and develop mobile applications for Android and iOS platforms using modern frameworks. Collaborate with designers to ensure an intuitive user experience, test applications for bugs, and optimize performance. Stay updated on mobile technology trends and contribute to continuous product improvement.",
+      "salary": "$85,000 - $105,000",
+      "location": "San Diego, CA",
+      "company": "AppVantage Labs",
+      "resp": [
+        "Design, build, and maintain mobile apps for iOS and Android",
+        "Collaborate with UI/UX designers for seamless user experience",
+        "Conduct testing and debugging for performance optimization",
+        "Integrate APIs and third-party libraries",
+        "Stay updated with latest mobile development trends"
+      ],
+      "req": [
+        "Bachelor’s degree in Computer Science or related field",
+        "2+ years of experience in mobile app development",
+        "Proficiency with Swift, Kotlin, or React Native",
+        "Strong debugging and problem-solving skills",
+        "Familiarity with REST APIs and mobile UI frameworks"
+      ],
+      "ben": [
+        "Health, dental, and vision insurance",
+        "401(k) with matching",
+        "Generous PTO and flexible schedule",
+        "Annual training and tech conferences",
+        "Collaborative and innovative culture"
+      ],
+      "fullDesc": "AppVantage Labs is seeking a talented Mobile App Developer to join our San Diego team. In this role, you will design, build, and maintain cutting-edge applications for iOS and Android platforms. You will work closely with UI/UX designers to ensure apps deliver intuitive and engaging user experiences. A key part of the role involves testing, debugging, and optimizing app performance while integrating APIs and third-party libraries. The ideal candidate has experience with Swift, Kotlin, or cross-platform frameworks like React Native, and is always eager to stay current with mobile technology trends."
+    },
+    {
+      "type": "Contract",
+      "id": "17",
+      "title": "SEO Specialist",
+      "desc": "Improve website visibility and ranking through keyword research, content optimization, and link-building strategies. Monitor analytics, adjust tactics based on performance, and stay informed about search engine algorithm updates. Collaborate with content teams to ensure best SEO practices are followed across all digital platforms.",
+      "salary": "$35/hr",
+      "location": "Orlando, FL",
+      "company": "RankRise Digital",
+      "resp": [
+        "Conduct keyword research and on-page optimization",
+        "Implement link-building strategies",
+        "Monitor analytics and adjust tactics",
+        "Collaborate with content creators to align SEO goals",
+        "Stay updated with algorithm changes"
+      ],
+      "req": [
+        "Proven experience as an SEO specialist",
+        "Knowledge of Google Analytics and Search Console",
+        "Understanding of on-page and off-page SEO",
+        "Strong research and analytical skills",
+        "Ability to work independently"
+      ],
+      "ben": [
+        "Flexible contract-based schedule",
+        "Work with diverse clients and industries",
+        "Remote work opportunities",
+        "Access to premium SEO tools",
+        "Potential for contract extension"
+      ],
+      "fullDesc": "RankRise Digital is seeking an experienced SEO Specialist to support our clients’ online visibility efforts. As part of this contract role, you will conduct keyword research, optimize website content, and implement link-building strategies to improve search rankings. You will monitor performance metrics through tools like Google Analytics and Search Console, making adjustments to ensure optimal results. This role requires someone who stays ahead of algorithm updates and can quickly adapt strategies to maintain competitiveness."
+    },
+    {
+      "type": "Remote",
+      "id": "18",
+      "title": "Email Marketing Manager",
+      "desc": "Plan, execute, and analyze email marketing campaigns to engage customers and drive conversions. Create compelling copy and visuals, segment audiences for targeted messaging, and track open and click-through rates. Use insights to refine strategies and increase campaign effectiveness over time.",
+      "salary": "$65,000 - $80,000",
+      "location": "Remote",
+      "company": "InboxEdge Solutions",
+      "resp": [
+        "Plan and manage email marketing campaigns",
+        "Segment audiences for targeted outreach",
+        "Create engaging email copy and visuals",
+        "Monitor KPIs and report campaign performance",
+        "Refine strategies based on data insights"
+      ],
+      "req": [
+        "Experience in email marketing or digital marketing",
+        "Proficiency with email platforms (Mailchimp, HubSpot, etc.)",
+        "Strong copywriting and content creation skills",
+        "Ability to analyze metrics and optimize campaigns",
+        "Creative thinking and attention to detail"
+      ],
+      "ben": [
+        "Fully remote position",
+        "Flexible working hours",
+        "Health and wellness stipend",
+        "Professional development opportunities",
+        "Supportive and innovative culture"
+      ],
+      "fullDesc": "InboxEdge Solutions is hiring a Remote Email Marketing Manager to design and execute impactful email campaigns that engage audiences and drive conversions. This role involves creating compelling copy, eye-catching visuals, and targeted messaging strategies that reach the right people at the right time. You will analyze campaign performance metrics, such as open and click-through rates, and adjust strategies to improve effectiveness. The ideal candidate has experience with email platforms like Mailchimp or HubSpot, strong writing skills, and the ability to think both creatively and analytically."
+    },
+    {
+      "type": "Internship",
+      "id": "19",
+      "title": "Human Resources Intern",
+      "desc": "Support HR operations, including recruitment, onboarding, and employee engagement activities. Assist in preparing documentation, maintain personnel records, and help organize training sessions. Gain exposure to HR policies and compliance req while working closely with experienced HR professionals to learn best practices.",
+      "salary": "$1,300/month",
+      "location": "Houston, TX",
+      "company": "PeopleFirst HR",
+      "resp": [
+        "Assist with recruitment and onboarding processes",
+        "Maintain and update personnel records",
+        "Help organize training and development sessions",
+        "Support employee engagement initiatives",
+        "Learn HR policies and compliance practices"
+      ],
+      "req": [
+        "Currently pursuing a degree in HR, Business, or related field",
+        "Strong organizational and communication skills",
+        "Ability to maintain confidentiality",
+        "Detail-oriented with good multitasking abilities",
+        "Eagerness to learn and grow in HR"
+      ],
+      "ben": [
+        "Hands-on HR experience",
+        "Mentorship from experienced professionals",
+        "Networking opportunities",
+        "Exposure to various HR functions",
+        "Opportunity for future employment consideration"
+      ],
+      "fullDesc": "PeopleFirst HR is seeking a motivated Human Resources Intern to join our Houston office. This internship offers hands-on exposure to key HR functions including recruitment, onboarding, employee engagement, and compliance. You will assist with maintaining personnel records, preparing documentation, and supporting training initiatives. The role is designed to give you a comprehensive understanding of HR operations while providing mentorship from experienced professionals."
+    },
+    {
+      "type": "Full-Time",
+      "id": "20",
+      "title": "Cybersecurity Analyst",
+      "desc": "Monitor networks and systems for security breaches, investigate incidents, and implement protective measures. Stay ahead of potential threats by researching new attack methods, performing vulnerability assessments, and developing security protocols. Collaborate with IT teams to ensure systems remain safe and compliant.",
+      "salary": "$95,000 - $120,000",
+      "location": "Washington, DC",
+      "company": "SecureNet Technologies",
+      "resp": [
+        "Monitor networks for suspicious activity",
+        "Investigate and respond to security incidents",
+        "Perform vulnerability assessments and audits",
+        "Develop and implement security protocols",
+        "Collaborate with IT teams for compliance"
+      ],
+      "req": [
+        "Bachelor’s degree in Cybersecurity, IT, or related field",
+        "2+ years of experience in cybersecurity or IT security",
+        "Knowledge of firewalls, IDS/IPS, and SIEM tools",
+        "Strong analytical and problem-solving skills",
+        "Relevant certifications (CISSP, CEH, CompTIA Security+) preferred"
+      ],
+      "ben": [
+        "Comprehensive health, dental, and vision insurance",
+        "401(k) with company match",
+        "Generous PTO and holidays",
+        "Training and certification reimbursement",
+        "Career growth in a fast-growing industry"
+      ],
+      "fullDesc": "SecureNet Technologies is looking for a proactive Cybersecurity Analyst to join our Washington, DC team. In this role, you will monitor networks and systems for suspicious activity, investigate security incidents, and implement measures to protect critical infrastructure. You will conduct vulnerability assessments, research new attack methods, and help develop security protocols to ensure compliance and resilience. The ideal candidate has a solid foundation in cybersecurity, experience with monitoring tools, and a strong understanding of threat landscapes."
+    },
+    {
+      "id": "450f",
+      "type": "Full-Time",
+      "title": "lkklk",
+      "company": "lkklk",
+      "location": "lklklk",
+      "desc": "klklk",
+      "fullDesc": "lklkklk",
+      "salary": "$100k – $150k",
+      "resp": [
+        "klklk"
+      ],
+      "ben": [
+        "lklklk"
+      ],
+      "req": [
+        "klklk"
+      ]
+    },
+    {
+      "id": "6314",
+      "type": "Full-Time",
+      "title": "ccccc",
+      "company": "kkjk",
+      "location": "jkkjk",
+      "desc": "kjjk",
+      "fullDesc": "kjkjkjk",
+      "salary": "$50k – $100k",
+      "resp": [
+        "kjkjk"
+      ],
+      "ben": [
+        "jkjkj"
+      ],
+      "req": [
+        "jkjkj"
+      ]
+    },
+    {
+      "id": "6613",
+      "type": "Full-Time",
+      "title": "m,m",
+      "company": "m,m,",
+      "location": ",m,m,",
+      "desc": "hgg",
+      "fullDesc": "hggh",
+      "salary": "$50k – $100k",
+      "resp": [
+        "hghg"
+      ],
+      "ben": [
+        "hgg"
+      ],
+      "req": [
+        "hghg"
+      ]
+    },
+    {
+      "id": "aeb4",
+      "type": "Internship",
+      "title": "jkjkj",
+      "company": "kjkjk",
+      "location": "jkjk",
+      "desc": "jjjj",
+      "fullDesc": "jjj",
+      "salary": "$200k – $300k",
+      "resp": [
+        "jjjj"
+      ],
+      "ben": [
+        "jjj"
+      ],
+      "req": [
+        "jjjj"
+      ]
+    },
+    {
+      "id": "cf8d",
+      "type": "Full-Time",
+      "title": "",
+      "company": "",
+      "location": "",
+      "desc": "",
+      "fullDesc": "",
+      "salary": "",
+      "resp": [],
+      "ben": [],
+      "req": []
+    },
+    {
+      "id": "c2c7",
+      "type": "Full-Time",
+      "title": "",
+      "company": "",
+      "location": "",
+      "desc": "",
+      "fullDesc": "",
+      "salary": "",
+      "resp": [],
+      "ben": [],
+      "req": []
+    },
+    {
+      "id": "c13c",
+      "type": "Full-Time",
+      "title": "updated",
+      "company": "lllll",
+      "location": "Remote",
+      "desc": "lllllllllllllllllllllllllllllllllllllllllllllllllll llllllllllllllllllllllllllllllllll llllllllllllllllllllllll lllllllllllllllllllllllllllllllllll llllllllllllllllllllllllllllllll lllllllllllllllllll lllllllllllllllllllllll lllllllllllllllllllllllllllllllllll lllllllllllllllllllllllllllllllll",
+      "fullDesc": "mmmmmmmmmmmmmmmmmkkkkkkkkkkkkkkkkkkkkkkjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjkkkkkkkggggggggggggggggh",
+      "salary": "$100k – $150k",
+      "resp": [
+        "mm",
+        "mmm",
+        "mm"
+      ],
+      "ben": [
+        "mm",
+        "mm",
+        "mm"
+      ],
+      "req": [
+        "mm",
+        "mm",
+        "mm",
+        "mm",
+        "kk"
+      ]
+    },
+    {
+      "id": "37b1",
+      "type": "Full-Time",
+      "title": "kkkkk",
+      "company": "kkkk",
+      "location": "kk",
+      "desc": "kkkkkkkkkkkkkk kkkkkkkkkkkkkkkkkkkkkkkkkk kkkkkkkkkkkkkkkkkkkkk",
+      "fullDesc": "oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+      "salary": "$50k – $100k",
+      "resp": [
+        "kk",
+        "k",
+        "k"
+      ],
+      "ben": [
+        "k",
+        "k",
+        "k"
+      ],
+      "req": [
+        "o",
+        "o",
+        "o"
+      ]
+    }
+  ]
+}

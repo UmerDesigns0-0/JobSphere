@@ -1,0 +1,3 @@
+animation blocks
+add blocks for other pages from 'taillocks'.
+a prebuilt toggle button and inside it the logic for dark and light mode using tailwind "dark:" property.
