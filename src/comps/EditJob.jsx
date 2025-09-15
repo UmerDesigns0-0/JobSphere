@@ -251,6 +251,9 @@ const fullDescRef = useRef(null);
       resp,
       ben,
       req,
+      uid: auth.currentUser.uid,
+      createdAt: serverTimestamp(),
+      createdBy: auth.currentUser.displayName || auth.currentUser.email || "UnKnown User",
     };
 
     // if (!title.trim()) {
